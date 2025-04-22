@@ -23,4 +23,7 @@ public class User {
     private String email;
 
     private String password;
+
+    private String role; // e.g., ROLE_USER or ROLE_ADMIN
+
 }
